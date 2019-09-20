@@ -17,7 +17,7 @@ They claim that _"usage has been low and steadily declining over time",_ which s
 
 Well, I don't have a copy of the tool of course, but I did archive the browser extension here for the sake of posterity.. or nostalgia.... or something. For now it's still up (although it won't do anything), but here's an archived copy of the store listing for if/when they remove it:
 
-* [Amazon Publisher Studio Extension Beta](https://github.com/grantwinney/Amazon-Publisher-Studio-Extension-Beta/wiki/Chrome-Web-Store-Page)
+[Amazon Publisher Studio Extension Beta](https://github.com/grantwinney/Amazon-Publisher-Studio-Extension-Beta/wiki/Chrome-Web-Store-Page)
 
 ## License
 
